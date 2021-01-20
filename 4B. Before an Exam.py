@@ -1,5 +1,3 @@
-#http://codeforces.com/contest/4/problem/b
-#Variable
 d, sumTime = map(int, input().split())
 minTime = []
 maxTime = []
